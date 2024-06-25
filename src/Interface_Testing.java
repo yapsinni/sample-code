@@ -25,6 +25,10 @@ class SecondChild extends FirstChild {
     public void m3() {
         System.out.println("Inside m3");
     }
+
+    // public void m4() {
+    // System.out.println("Inside m4");
+    // }
 }
 
 class Interface_Testing {
